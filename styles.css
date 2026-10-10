@@ -307,8 +307,8 @@ footer a { text-underline-offset: 3px; }
     --paper: #0f1110;
     --card: #181b18;
     --line: #30352f;
-    --accent: #0a84ff;
-    --accent-deep: #0a84ff;
+    --accent: #007aff;
+    --accent-deep: #007aff;
   }
 
   .brand-mark { color: #ffffff; }
